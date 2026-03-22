@@ -1,0 +1,9 @@
+$schema: https://azuremlschemas.azureedge.net/latest/featurestoreentity.schema.json
+name: TaxiTrip
+version: 1
+description: NYC Yellow Taxi trip entity
+index_columns:
+  - name: tpep_pickup_datetime
+    type: string
+  - name: tpep_dropoff_datetime
+    type: string

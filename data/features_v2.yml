@@ -1,0 +1,6 @@
+$schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
+name: taxi_features_v2
+version: 1
+type: uri_folder
+path: azureml://datastores/blobkey/paths/features_v2/
+description: Engineered features dataset (time, speed, efficiency) for ML pipelines
