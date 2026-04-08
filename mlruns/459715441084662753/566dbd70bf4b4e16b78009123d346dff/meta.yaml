@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Owais Khalid/Desktop/Owais Main/UDST/Semester 7/INFS
+  3201/assignment/GitHub/DSAI3202_Cloud_Project/mlruns/459715441084662753/566dbd70bf4b4e16b78009123d346dff/artifacts
+end_time: 1775645425552
+entry_point_name: ''
+experiment_id: '459715441084662753'
+lifecycle_stage: active
+run_id: 566dbd70bf4b4e16b78009123d346dff
+run_name: gradient_boosted_trees
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775645298812
+status: 3
+tags: []
+user_id: Owais Khalid

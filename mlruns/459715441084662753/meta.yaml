@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/Owais Khalid/Desktop/Owais Main/UDST/Semester
+  7/INFS 3201/assignment/GitHub/DSAI3202_Cloud_Project/mlruns/459715441084662753
+creation_time: 1775645266275
+experiment_id: '459715441084662753'
+last_update_time: 1775645266275
+lifecycle_stage: active
+name: taxi_fare_prediction
+trace_location: null
+workspace: default

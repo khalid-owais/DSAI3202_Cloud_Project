@@ -1,0 +1,24 @@
+artifact_path: file:///C:/Users/Owais Khalid/Desktop/Owais Main/UDST/Semester 7/INFS
+  3201/assignment/GitHub/DSAI3202_Cloud_Project/mlruns/459715441084662753/models/m-a9fe9677ec954b389e6476a41cbafba5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-a9fe9677ec954b389e6476a41cbafba5
+model_size_bytes: 515
+model_uuid: m-a9fe9677ec954b389e6476a41cbafba5
+prompts: null
+run_id: 669615c7f083403883cd391aca5be365
+utc_time_created: '2026-04-08 10:48:08.466173'

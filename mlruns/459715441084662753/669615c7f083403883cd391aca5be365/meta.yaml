@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Owais Khalid/Desktop/Owais Main/UDST/Semester 7/INFS
+  3201/assignment/GitHub/DSAI3202_Cloud_Project/mlruns/459715441084662753/669615c7f083403883cd391aca5be365/artifacts
+end_time: 1775645298779
+entry_point_name: ''
+experiment_id: '459715441084662753'
+lifecycle_stage: active
+run_id: 669615c7f083403883cd391aca5be365
+run_name: linear_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775645287911
+status: 3
+tags: []
+user_id: Owais Khalid
