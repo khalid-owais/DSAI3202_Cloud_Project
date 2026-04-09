@@ -1,1 +1,0 @@
-['trip_distance', 'trip_duration_minutes', 'passenger_count', 'pickup_hour', 'pickup_day_of_week', 'is_weekend', 'avg_speed_mph']
